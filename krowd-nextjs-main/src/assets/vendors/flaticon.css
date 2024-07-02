@@ -1,0 +1,65 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 21/06/2020 14:44
+    */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-networking:before { content: "\f100"; }
+.flaticon-photograph:before { content: "\f101"; }
+.flaticon-translation:before { content: "\f102"; }
+.flaticon-stethoscope:before { content: "\f103"; }
+.flaticon-skincare:before { content: "\f104"; }
+.flaticon-design:before { content: "\f105"; }
+.flaticon-next:before { content: "\f106"; }
+.flaticon-back:before { content: "\f107"; }
+.flaticon-checkmark:before { content: "\f108"; }
+.flaticon-scrum:before { content: "\f109"; }
+.flaticon-mission:before { content: "\f10a"; }
+.flaticon-team:before { content: "\f10b"; }
+.flaticon-increment:before { content: "\f10c"; }
+.flaticon-left-quotes-sign:before { content: "\f10d"; }
+.flaticon-add:before { content: "\f10e"; }
+.flaticon-plus:before { content: "\f10f"; }
+.flaticon-minus:before { content: "\f110"; }
+.flaticon-handshake:before { content: "\f111"; }
+.flaticon-computer:before { content: "\f112"; }
+.flaticon-pay:before { content: "\f113"; }
+.flaticon-email:before { content: "\f114"; }
+.flaticon-placeholder:before { content: "\f115"; }
+.flaticon-check:before { content: "\f116"; }
+.flaticon-thumbs-up:before { content: "\f117"; }
+.flaticon-creativity:before { content: "\f118"; }
+.flaticon-invention:before { content: "\f119"; }
+.flaticon-smartphone:before { content: "\f11a"; }
+.flaticon-nanotechnology:before { content: "\f11b"; }
+.flaticon-entrepreneur:before { content: "\f11c"; }
+.flaticon-fingerprint-scan:before { content: "\f11d"; }
+.flaticon-account:before { content: "\f11e"; }
+.flaticon-entrepreneur-1:before { content: "\f11f"; }
+.flaticon-location:before { content: "\f120"; }
+.flaticon-contact:before { content: "\f121"; }
+.flaticon-search:before { content: "\f122"; }
